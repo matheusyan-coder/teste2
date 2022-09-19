@@ -1,1 +1,2 @@
-# teste2
+# 2EMIB
+Repositório de aula.
